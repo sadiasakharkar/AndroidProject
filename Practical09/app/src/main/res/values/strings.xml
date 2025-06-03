@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="animal_array">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
